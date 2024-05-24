@@ -1,0 +1,13 @@
+name: pypt
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pytorch
+  - pytorch-cuda=12.1
+  - torchvision
+  - plotly
+  - ipykernel
+  - nbformat
+  - pandas
+prefix: /home/in-young/miniforge3/envs/pypt
