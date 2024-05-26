@@ -1,10 +1,10 @@
 # PyTorch Path Tracing
 
-Pure PyTorch-based Monte Carlo Path Tracing Algorithms and More for Fun
+Pure PyTorch-based & Vectorized Monte Carlo Path Tracing Algorithms and More for Fun
 
 ## Features
-- **Neural Radiosity** [Hadadan et al. 2021]: A 298-line runnable Python notebook is available [here](notebooks/neural_radiosity.ipynb).
-    - **Modification**: Implemented stop-gradient on the right-hand side for better performance.
+- **Path Tracing & Neural Radiosity [Hadadan et al. 2021]**: A 350-line runnable Python notebook is available [here](notebooks/neural_radiosity.ipynb).
+    - **Modification**: Implemented stop-gradient on the right-hand side of the NR for better performance.
 
 ## Installation
 
